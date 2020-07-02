@@ -5,7 +5,7 @@
 
 * COVID-19 has impacted society in a drastic way. Due to this invisible enemy, it is required to keep a social distance between humans. But as human beings are social animals, it has been really difficult to maintain the required social distance in different areas. And due to this factor, logarithmic increase in the number of cases has been really huge.
 ---
-### Cobal Notebook : ![click here](https://colab.research.google.com/drive/1Kd2pGBKMeVj8KNznwcbaxQWr8LQr7CBU?authuser=1#scrollTo=XzJ9DSgM9ETD)
+### Colab Notebook : ![click here](https://colab.research.google.com/drive/1Kd2pGBKMeVj8KNznwcbaxQWr8LQr7CBU?authuser=1#scrollTo=XzJ9DSgM9ETD)
 ---
 
 ## Video Output (YouTube)
