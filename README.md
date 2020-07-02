@@ -33,6 +33,7 @@
 
 ## Birds eye View Transformation
 
-|original Image|Transformed Image|
-|--|--|
-|image-1|image2|
+|original Image|Transformed Image|Birds eye View|
+|--|--|--|
+|![](https://raw.githubusercontent.com/Vatsalparsaniya/Social-Distance-Surveillance/master/result/set_prespective_points_200.png?token=AIDJHSD6IQA64ODPE7JLKJC7A465E)|![](https://raw.githubusercontent.com/Vatsalparsaniya/Social-Distance-Surveillance/master/result/transform_top_view_200.png?token=AIDJHSA7HTDIZUEMDTBFSXC7A466M)|![](https://raw.githubusercontent.com/Vatsalparsaniya/Social-Distance-Surveillance/master/result/birds_eye_view_image_200.png?token=AIDJHSC2QVIS3RHOZHGUOP27A5AY4)|
+|![](https://raw.githubusercontent.com/Vatsalparsaniya/Social-Distance-Surveillance/master/result/pedestrianWalking_set_prespective_points_400.png?token=AIDJHSHGP5EHQX3PNIZUQPK7A47Q4)|![](https://raw.githubusercontent.com/Vatsalparsaniya/Social-Distance-Surveillance/master/result/pedestrianWalking_transform_top_view_400.png?token=AIDJHSB7AY4DVGMK3OXCHKK7A47Q2)|![](https://raw.githubusercontent.com/Vatsalparsaniya/Social-Distance-Surveillance/master/result/pedestrianWalking_birds_eye_view_image_400.png?token=AIDJHSAX6UA3S6XLMJMPQRK7A5BBA)|
