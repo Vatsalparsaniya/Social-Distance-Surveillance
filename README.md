@@ -51,3 +51,11 @@
 |--|--|
 |![](https://raw.githubusercontent.com/Vatsalparsaniya/Social-Distance-Surveillance/master/data/TownCentre_frame_200.jpg?token=AIDJHSA6HNPXPL7RN3O2DYK7A5H6I)|![](https://raw.githubusercontent.com/Vatsalparsaniya/Social-Distance-Surveillance/master/result/final_output_200.png?token=AIDJHSGJXHSSWLFVBDTGSKS7A5IMC)|
 |![](https://raw.githubusercontent.com/Vatsalparsaniya/Social-Distance-Surveillance/master/data/pedestrianWalking_frame_400.jpg?token=AIDJHSBIBEQG45QRGYNR5LC7A5IDC)|![](https://raw.githubusercontent.com/Vatsalparsaniya/Social-Distance-Surveillance/master/result/final_output_pedestrianWalking_400.png?token=AIDJHSFBDT3RH43VUORXVHC7A5ILI)|
+
+## Contributors
+
+* [Vatsal Parsaniya](https://github.com/Vatsalparsaniya)
+* [Meet Ranoliya](https://github.com/memr5)
+* [Tanmeet Butani](https://github.com/tanmeet1)
+* [Darshit Vachhani](https://github.com/darshitvachhani)
+* [Bhautik Donga](https://github.com/BhautikDonga)
